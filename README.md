@@ -6,3 +6,10 @@ Today I solved two interesting LeetCode problems that strengthened my understand
 
 
 📅 Day 27 of #365DaysOfDSA  Today I solved LeetCode 930: Binary Subarrays With Sum — a powerful application of Prefix Sum + HashMap to count subarrays efficiently.  🔹 Learned how prefix differences help identify subarrays matching the target sum 🔹 Used map.getOrDefault() to handle frequency updates cleanly 
+
+📅 Day 28 of #365DaysOfDSA
+Today I solved LeetCode 1018 — Binary Prefix Divisible By 5, a problem that helped me understand how binary prefixes can be processed efficiently using mathematics instead of converting entire numbers.
+🔍 What I learned
+Instead of forming full binary numbers, we can track prefixes using modular arithmetic.
+Key insight:
+prefix = (prefix * 2 + currentBit) % 5;
