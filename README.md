@@ -13,3 +13,9 @@ Today I solved LeetCode 1018 — Binary Prefix Divisible By 5, a problem that he
 Instead of forming full binary numbers, we can track prefixes using modular arithmetic.
 Key insight:
 prefix = (prefix * 2 + currentBit) % 5;
+
+📅 Day 29 of hashtag#365DaysOfDSA
+Solved 1015. Smallest Integer Divisible by K today.
+ Used modular arithmetic to track remainders and avoid overflow while building numbers made only of 1s.
+ Simple logic, clean solution! 💡
+🚀 On to Day 30!
