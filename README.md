@@ -19,3 +19,13 @@ Solved 1015. Smallest Integer Divisible by K today.
  Used modular arithmetic to track remainders and avoid overflow while building numbers made only of 1s.
  Simple logic, clean solution! 💡
 🚀 On to Day 30!
+
+📅 Day 30 of #365DaysOfDSA
+Today I solved three prefix-sum-based problems:
+🔹 1248. Count Number of Nice Subarrays
+Used prefix sum + hashmap to efficiently count subarrays with exactly k odd numbers.
+🔹 724. Find Pivot Index
+Applied running prefix sums to balance left and right subarray sums.
+🔹 2574. Left and Right Sum Differences
+Computed prefix and suffix sums to calculate differences for each index in linear time.
+
