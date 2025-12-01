@@ -29,3 +29,10 @@ Applied running prefix sums to balance left and right subarray sums.
 🔹 2574. Left and Right Sum Differences
 Computed prefix and suffix sums to calculate differences for each index in linear time.
 
+🚀 Day 31 of #365DaysOfDSA
+Today I tackled two important sliding window + prefix sum problems:
+🔹 LeetCode 523 – Continuous Subarray Sum
+Learned how modulo + hashmap can efficiently detect subarrays whose sum is divisible by k.
+🔹 LeetCode 209 – Minimum Size Subarray Sum
+Used the two-pointer/sliding window pattern to find the smallest subarray with sum ≥ target — great for mastering window optimization.
+
